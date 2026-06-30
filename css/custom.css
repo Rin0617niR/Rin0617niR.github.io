@@ -1,0 +1,5 @@
+/* 让首页顶部图固定 */
+#page-header {
+  background-attachment: fixed !important;
+  background-size: cover !important;
+}
