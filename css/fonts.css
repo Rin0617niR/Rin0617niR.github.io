@@ -1,0 +1,11 @@
+ @font-face {
+    font-family: 'Yozai-Regular';
+    src: url('/fonts/Yozai-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* 设置全局字体 */
+body {
+    font-family: 'Yozai-Regular', serif;
+}
